@@ -169,7 +169,7 @@ function Home() {
 					<Divider orientation="left">
 						{user
 							? `${user.name}'s Repository List`
-							: 'Please search for a repository'}
+							: 'Please search for a User'}
 					</Divider>
 					<List
 						itemLayout="horizontal"
